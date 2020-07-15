@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Zanuar 👋
 
 <!--
 **zanuarts/zanuarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Interested in Machine Learning and Deep Learning.
+
+🌱 I’m currently learning Computer Vision and Natural Language Processing
+👯 I’m looking to collaborate on Machine Learning Project
+📫 How to reach me: Just send me email to zanuar.er@gmail.com !
+⚡ Fun fact: I am noob
