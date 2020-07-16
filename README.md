@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 Interested in Machine Learning and Deep Learning.
 
 <br>🌱 I’m currently learning Computer Vision and Natural Language Processing
-<br>👯 I’m looking to collaborate on Machine Learning Project
 <br>📫 How to reach me: Just send me email to zanuar.er@gmail.com !
 <br>⚡ Fun fact: I am noob
 
 <br>Want to play together?
-<br>just add my Steam:
 ```
-https://steamcommunity.com/id/zanuarts/
+Dota 2 ID : 413203599
 ```
