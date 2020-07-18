@@ -19,7 +19,6 @@ Interested in Machine Learning and Deep Learning.
 
 <br>🌱 I’m currently learning Computer Vision and Natural Language Processing
 <br>📫 How to reach me: Just send me email to zanuar.er@gmail.com !
-<br>⚡ Fun fact: I am noob
 
 <br>Want to play together?
 ```
