@@ -20,3 +20,4 @@ Interested in Machine Learning and Deep Learning.
 <br>🌱 I’m currently learning Computer Vision and Natural Language Processing
 <br>📫 How to reach me: Just send me email to zanuar.er@gmail.com !
 
+[![Zanuarts's github stats](https://github-readme-stats.vercel.app/api?username=zanuarts)]
