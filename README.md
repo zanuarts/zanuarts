@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
 
->> Familiar with Vue, Flutter, Tensorflow, Flask, Python, Javascript
+> Familiar with Flutter, Tensorflow, Flask, Python, Javascript
 
 <br>🌱 I’m currently learning Computer Vision and Natural Language Processing
 <br>📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
