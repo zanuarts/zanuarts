@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+OTW Specialize in Artificial Intelligence, Machine Learning, and Deep Learning(Aamiin)!
 
-> Familiar with Flutter, Tensorflow, Flask, Python, Javascript
+> Familiar with Flutter, React JS, Laravel, Tensorflow, Flask, Python, Javascript
 
 <br>🌱 I’m currently learning Computer Vision and Natural Language Processing
 <br>📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
