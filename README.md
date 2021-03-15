@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-OTW Specialize in Artificial Intelligence, Machine Learning, and Deep Learning(Aamiin)!
+A humble coder.
 
 > Familiar with Flutter, React JS, Laravel, Tensorflow, Flask, Python, Javascript
 
