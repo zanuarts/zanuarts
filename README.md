@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 A humble coder.
 
-> Familiar with Flutter, React JS, Laravel, Tensorflow, Flask, Python, Javascript
-
 <br>🌱 I’m currently learning anything
 <br>📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
 
