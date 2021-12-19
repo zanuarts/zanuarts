@@ -21,4 +21,4 @@ A humble coder.
 <br>📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
 
 ![Zanuarts's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=zanuarts&show_stars=true&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
-<img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=zanuarts&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
+<img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=zanuarts&hide_border=true&layout=compact&title_color=000000&tetx_color=000000&hide=jupyter%20notebook" width="">
