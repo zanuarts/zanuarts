@@ -15,10 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A humble coder.
+A humble coder, software engineer, & reviewer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
+Interested in machine learning, python, and cloud technology.<br>
+Currently focus learning machine learning operations ecosystem.
 
-<br>🌱 "A student, lifelong learner" ~Geralt of Rivia
-<br>📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
+- 🌱 Lifelong Learner<br>
+- 📫 How to reach me: See my <a href="https://www.linkedin.com/in/zanuar-er">LinkedIn</a> 
 
-![Zanuarts's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=zanuarts&show_stars=true&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanuarts&hide_border=true&layout=compact&title_color=000000&tetx_color=000000&hide=jupyter%20notebook,html,css" width="">
+---
+
+⚡ Recent Activity
+
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zanuarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zanuarts&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css"/>
+</a>
+</p>
