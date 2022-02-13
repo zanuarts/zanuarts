@@ -24,7 +24,7 @@ Currently focus learning machine learning operations ecosystem.
 
 ---
 
-⚡ Recent Activity
+### :zap: Recent Activity
 
 <p align="left">
 <a href="https://github.com/dimasmds">
