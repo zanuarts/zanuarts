@@ -20,6 +20,7 @@ Interested in machine learning, python, and cloud technology.<br>
 Currently focus learning machine learning operations ecosystem.
 
 - 🌱 Lifelong Learner
+- :snake: Primary language: Python
 - 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/zanuar-er)
 
 ---
