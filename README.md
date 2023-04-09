@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A humble coder, software engineer, & reviewer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
 Interested in machine learning, python, and cloud technology.<br>
-Currently focus learning machine learning operations ecosystem.
+Multistack Engineer.
 
 - 🌱 Lifelong Learner
 - :snake: Primary language: Python
