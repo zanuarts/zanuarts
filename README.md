@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A humble coder, software engineer, & reviewer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
+A humble coder, software engineer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
 Interested in machine learning, python, and cloud technology.<br>
 Currently being a Multistack Engineer.
 
