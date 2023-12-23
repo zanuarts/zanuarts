@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A humble coder, software engineer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
+A humble coder, Product engineer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
 Interested in machine learning, python, and cloud technology.<br>
-Currently being a Multistack Engineer.
+Currently learning Large Language Model (LLM).
 
 - 🌱 Lifelong Learner
 - :snake: Primary language: Python
