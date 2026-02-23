@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A humble coder, Product engineer @ [Dicoding Indonesia](https://www.dicoding.com).<br> 
-Interested in machine learning, python, and cloud technology.<br>
-Currently learning Large Language Model (LLM).
+A humble coder, an ordinary engineer @ [Dicoding Indonesia](https://www.dicoding.com) and @ [Gymnasyum](https://gymnasyum.id).<br> 
+Specialized in machine learning and software development.<br>
+Currently learning Agentic AI.
 
 - 🌱 Lifelong Learner
-- :snake: Primary language: Python
 - 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/zanuar-er)
 
 ---
